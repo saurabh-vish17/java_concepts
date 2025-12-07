@@ -34,5 +34,6 @@ public class Main2 {
         System.out.println("Greeting: "+greeting);
         System.out.print("Array elements: "+numbers[0]+", "+numbers[1]+", "+numbers[2]+", "+numbers[3]+", "+numbers[4]);
             
+        
     }
 }
