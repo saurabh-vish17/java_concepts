@@ -11,4 +11,8 @@ Main3: concepts of string and it functions
 
 Main4: concepts of array and its properties
 
-Main5: concepts of casting
+Main5: concepts of casting and constant
+
+Main6: concepts of operators
+
+Main7: concepts of taking input from the user
