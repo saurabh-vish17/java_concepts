@@ -34,5 +34,11 @@ public class Main6 {
         //<
         //>=
         //<=
+        
+        //4.logical operator
+        //&& and
+        // || or
+        // ! not
     }
+
 }
